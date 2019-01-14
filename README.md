@@ -1,6 +1,7 @@
 # word2tex
 Script to extract content from a docx file to a tex file
 Heidelberg University Language and Cognition Lab - https://hulclab.eu
+...
 
 ## About
 
